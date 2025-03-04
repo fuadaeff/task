@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\tasks\tasks\bin\Debug\net8.0\tasks.exe
+C:\Users\elsad\source\repos\tasks\tasks\bin\Debug\net8.0\tasks.deps.json
+C:\Users\elsad\source\repos\tasks\tasks\bin\Debug\net8.0\tasks.runtimeconfig.json
+C:\Users\elsad\source\repos\tasks\tasks\bin\Debug\net8.0\tasks.dll
+C:\Users\elsad\source\repos\tasks\tasks\bin\Debug\net8.0\tasks.pdb
+C:\Users\elsad\source\repos\tasks\tasks\obj\Debug\net8.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\tasks\tasks\obj\Debug\net8.0\tasks.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\tasks\tasks\obj\Debug\net8.0\tasks.AssemblyInfo.cs
+C:\Users\elsad\source\repos\tasks\tasks\obj\Debug\net8.0\tasks.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\tasks\tasks\obj\Debug\net8.0\tasks.dll
+C:\Users\elsad\source\repos\tasks\tasks\obj\Debug\net8.0\refint\tasks.dll
+C:\Users\elsad\source\repos\tasks\tasks\obj\Debug\net8.0\tasks.pdb
+C:\Users\elsad\source\repos\tasks\tasks\obj\Debug\net8.0\tasks.genruntimeconfig.cache
+C:\Users\elsad\source\repos\tasks\tasks\obj\Debug\net8.0\ref\tasks.dll
