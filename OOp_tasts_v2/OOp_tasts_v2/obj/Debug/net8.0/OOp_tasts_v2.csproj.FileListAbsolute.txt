@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\bin\Debug\net8.0\OOp_tasts_v2.exe
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\bin\Debug\net8.0\OOp_tasts_v2.deps.json
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\bin\Debug\net8.0\OOp_tasts_v2.runtimeconfig.json
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\bin\Debug\net8.0\OOp_tasts_v2.dll
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\bin\Debug\net8.0\OOp_tasts_v2.pdb
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\obj\Debug\net8.0\OOp_tasts_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\obj\Debug\net8.0\OOp_tasts_v2.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\obj\Debug\net8.0\OOp_tasts_v2.AssemblyInfo.cs
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\obj\Debug\net8.0\OOp_tasts_v2.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\obj\Debug\net8.0\OOp_tasts_v2.dll
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\obj\Debug\net8.0\refint\OOp_tasts_v2.dll
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\obj\Debug\net8.0\OOp_tasts_v2.pdb
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\obj\Debug\net8.0\OOp_tasts_v2.genruntimeconfig.cache
+C:\Users\elsad\source\repos\OOp_tasts_v2\OOp_tasts_v2\obj\Debug\net8.0\ref\OOp_tasts_v2.dll
